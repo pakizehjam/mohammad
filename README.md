@@ -1,11 +1,11 @@
 # mohammad
 # CNA421
-## Final project
-### Saeid Nahali, Mohammad Pakizeh jam
+### Final project
+#### Saeid Nahali, Mohammad Pakizeh jam
 
-## 1. Install and Configure Wordpress in AWS EC2 Ubuntu Server Instance
-## 2. Create RDS instance and Connect from EC2
-## 3. Get lambda instance talking to web server and RDS
+### 1. Install and Configure Wordpress in AWS EC2 Ubuntu Server Instance
+### 2. Create RDS instance and Connect from EC2
+### 3. Get lambda instance talking to web server and RDS
 
 **********************************************************
 ## Install and Configure Wordpress in AWS EC2 Ubuntu Server Instance
