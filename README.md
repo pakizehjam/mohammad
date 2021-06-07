@@ -1,27 +1,27 @@
 # mohammad
-CNA421
-Final project
-Saeid Nahali, Mohammad Pakizeh jam
+# CNA421
+## Final project
+### Saeid Nahali, Mohammad Pakizeh jam
 
-1. Install and Configure Wordpress in AWS EC2 Ubuntu Server Instance
-2. Create RDS instance and Connect from EC2
-3. Get lambda instance talking to web server and RDS
+## 1. Install and Configure Wordpress in AWS EC2 Ubuntu Server Instance
+## 2. Create RDS instance and Connect from EC2
+## 3. Get lambda instance talking to web server and RDS
 
 **********************************************************
+## Install and Configure Wordpress in AWS EC2 Ubuntu Server Instance
 
 
+ Create an EC2 instance and install a web server
+ In this step, you create a web server to connect to the Amazon RDS DB instance that you created in Create a DB instance.
 
-Create an EC2 instance and install a web server
-In this step, you create a web server to connect to the Amazon RDS DB instance that you created in Create a DB instance.
+ Launch an EC2 instance
+ First, you create an Amazon EC2 instance in the public subnet of your VPC.
 
-Launch an EC2 instance
-First, you create an Amazon EC2 instance in the public subnet of your VPC.
+ To launch an EC2 instance
 
-To launch an EC2 instance
+ Sign in to the AWS Management Console and open the Amazon EC2 console at https://console.aws.amazon.com/ec2/.
 
-Sign in to the AWS Management Console and open the Amazon EC2 console at https://console.aws.amazon.com/ec2/.
-
-Choose EC2 Dashboard, and then choose Launch instance, as shown following.
+ Choose EC2 Dashboard, and then choose Launch instance, as shown following.
 
 
                                 EC2 Dashboard
