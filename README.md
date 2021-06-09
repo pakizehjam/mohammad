@@ -1,6 +1,6 @@
 # CNA 421 Final Project(Spring 2021)
 ### Renton Technical College WA
-#### Student Bachelor Computer Network Engineer
+#### Student of Bachelor Computer Network Engineer
 #### instractur: Dr. Zachary Rubin
 #### Creators: Saeid Nahali, Mohammad Pakizeh jam
 
@@ -21,7 +21,7 @@
  ```
 ### Documents:
 ```
-1-http://fredericpaladin.com/kb/aws-ec2-instance-with-ubuntu-apache2-web-server/
+ 1-http://fredericpaladin.com/kb/aws-ec2-instance-with-ubuntu-apache2-web-server/
 ```
 ```
  2-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
@@ -30,7 +30,7 @@
 ## Create RDS instance and Connect from EC2
 ### Video training:
 ```
-https://youtu.be/I9Fzm1obG7U
+ https://youtu.be/I9Fzm1obG7U
 ```
 ### Documents:
 ```
