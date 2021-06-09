@@ -1,13 +1,14 @@
-# CNA 421 Final Project
+# CNA 421 Final Project(Spring 2021)
 ### Renton Technical College WA
-### Spring 2021
+#### Student Bachelor Computer Network Engineer
 #### instractur: Dr. Zachary Rubin
 #### Creators: Saeid Nahali, Mohammad Pakizeh jam
-#### Student Bachelor Computer Network Engineer
 
 
 
-### Everything is on Amazon Web Services.
+
+### Amazon Relational Database Service (Amazon RDS).
+ Amazon Relational Database Service (Amazon RDS) is a web service that makes it easier to set up, operate, and scale a relational database in the AWS Cloud. It provides cost-efficient, resizable capacity for an industry-standard relational database and manages common database administration tasks.
  The goals of this project to create webserver and connect EC2 web server to RDS and Lambda services.
  To achive this you have to follow steps at below:
 
